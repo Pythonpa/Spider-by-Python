@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#spider_meilele_topic_v1.0专题爬虫:暂时只能爬非团购自动读取板块的所有页面产品：
+#spider_meilele_topic_v1.0专题爬虫:能爬非团购自动读取板块的所有页面产品：
 
 from bs4 import BeautifulSoup
 import requests
